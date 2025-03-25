@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.47ddf97a.css",
-    "main.js": "/static/js/main.b8e58ddf.js",
+    "main.css": "/static/css/main.ce79a3d2.css",
+    "main.js": "/static/js/main.48171f30.js",
+    "static/media/sven.png": "/static/media/sven.0a6c72383fa8cf96f2fd.png",
     "static/media/sun.svg": "/static/media/sun.6ad7dea715038331dacac2205915aac3.svg",
     "static/media/github.svg": "/static/media/github.0d9a6c7d6aabe700cb3d77df233f45ec.svg",
+    "static/media/location.svg": "/static/media/location.aaf947c0b3d8b0a611840555f8027650.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.aff819751cb17c7c9e37e9c63e2e8843.svg",
     "index.html": "/index.html",
     "static/media/mail.svg": "/static/media/mail.3a689732e316f73a26e7e82f6018ee21.svg",
     "static/media/moon.svg": "/static/media/moon.5a635996c6b52778c1b94186412cd138.svg",
-    "main.47ddf97a.css.map": "/static/css/main.47ddf97a.css.map",
-    "main.b8e58ddf.js.map": "/static/js/main.b8e58ddf.js.map"
+    "main.ce79a3d2.css.map": "/static/css/main.ce79a3d2.css.map",
+    "main.48171f30.js.map": "/static/js/main.48171f30.js.map"
   },
   "entrypoints": [
-    "static/css/main.47ddf97a.css",
-    "static/js/main.b8e58ddf.js"
+    "static/css/main.ce79a3d2.css",
+    "static/js/main.48171f30.js"
   ]
 }

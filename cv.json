@@ -1,0 +1,94 @@
+{
+  "education": [
+    {
+      "title": "BsC in Computer Science, ETH Zurich",
+      "date": "Jan 2020 - Dec. 2020",
+      "courses": "Algorithms and Datastructures, Parallel Programming, Digital Design and Computer Architecture, Introduction to Programming, Fundamentals of Web Engineering",
+      "gpa": "6/6"
+    },
+    {
+      "title": "BA in Economics, University of St. Gallen (HSG)",
+      "date": "Jan 2020 - Dec. 2020",
+      "courses": "a, b, c, d",
+      "gpa": "6/6",
+      "thesis" : "Margin Procyclicality during Covid 19 - Drivers, Impact and Solutions (Grade: 5.5 / 6)"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mizuho securities",
+      "date" : "Jan. 2023 - today",
+      "location": "frankfurt am main",
+      "title": "summer intern",
+      "tasks" : [
+        "Active involvement and Job Shadowing with the credit sales team (Corps, Fins & EM) ",
+        "Analyzed a large dataset of historical internal and external trade data to uncover hidden client potential using R",
+        "Spent time in London to job shadow the credit trading team and was offered a subsequent full-time position"
+      ]
+    }
+  ],
+  "projects" : [
+    {
+      "name" : "hello",
+      "description": "gfsdgs"
+    }
+  ],
+  "skills" : [
+    {
+      "name": "R",
+      "value": "advanced"
+    },
+    {
+      "name":"Java",
+      "value": "intermediate"
+    },
+    {
+      "name":"Git/Linux",
+      "value": "intermediate"
+    },
+    {
+      "name":"Bloomberg",
+      "value": "intermediate"
+    },
+    {
+      "name":"Bloomberg",
+      "value": "intermediate"
+    }
+  ],
+  "languages" : [
+    {
+      "name": "German",
+      "value": "Native"
+    },
+    {
+      "name": "English",
+      "value": "Fluent"
+    },
+    {
+      "name": "Spanish",
+      "value": "Intermediate"
+    },
+    {
+      "name": "French",
+      "value": "Intermediate"
+    }
+  ],
+  "socials" : [
+    {
+      "name" : "github.com/svensglinz",
+      "logo" : "/img/github.svg"
+    },
+    {
+      "name" : "github.com/svensglinz",
+      "logo" : "/img/linkedin.svg"
+    },
+    {
+      "name" : "github.com/svensglinz",
+      "logo" : "/img/mail.svg"
+    },
+    {
+      "name" : "svenglinz.ch",
+      "logo" : "/img/mail.svg"
+    }
+  ]
+}
