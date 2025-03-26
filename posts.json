@@ -1,35 +1,11 @@
 [
   {
-    "id": 1,
-    "titlePicture": "img.png",
-    "path": "post1",
-    "title": "post 1",
-    "date": "2020/01/01",
-    "summary": "This article offers a samble of basic Markdown syntax that can be used in hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme"
-  },
-  {
-    "id": 2,
-    "titlePicture": "img.png",
-    "path": "post2",
-    "title": "post 2",
-    "date": "2020/01/01",
-    "summary": "hhhhh"
-  },
-  {
-    "id": 3,
-    "titlePicture": "img.png",
-    "path": "post3",
-    "title": "post 2",
-    "date": "2024/01/01",
-    "summary": "hhhhh"
-  },
-  {
     "id": 4,
     "titlePicture": "img.png",
     "path": "MarginProcyclicality",
     "title": "Margin Procyclicality in Financial Markets",
     "date": "2025/03/25",
-    "summary": "goes here"
+    "summary": "A summary of my bachelor thesis in Economics about Margin Procyclicality in cleared derivatives markets"
   },
   {
     "id": 5,
@@ -37,7 +13,7 @@
     "path": "EBNFparser",
     "title": "EBNF Grammar Parser",
     "date": "2025/03/25",
-    "summary": "goes here"
+    "summary": "A brute force EBNF Grammar Parser that checks whether code snippets are syntactically valid"
   },
   {
     "id": 6,
@@ -45,7 +21,7 @@
     "path": "udpReverseTunnel",
     "title": "UDP Reverse Tunnel",
     "date": "2025/03/25",
-    "summary": "goes here"
+    "summary": "UDP Reverse Tunnel that allows relays traffic to a UDP service behind a NAT via a public server."
   },
   {
     "id": 7,
@@ -53,6 +29,6 @@
     "path" : "scd30",
     "title" : "SCD30 Sensor",
     "date" : "2025/03/26",
-    "summary": "sensirion scd30 sensor"
+    "summary": "Measuring temperature with the Sensirion SCD30 and a Raspberry Pi Zero"
   }
 ]
